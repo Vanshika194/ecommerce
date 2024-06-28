@@ -1,8 +1,8 @@
 .navbar{
     display: flex;
     justify-content: space-around;
-    padding: 10px;
-    background-color: #F19ED2;
+    padding: 20px;
+    background-color: #F7F9F2;
     box-shadow: 0 1px 3px -2px black;
 
 }
