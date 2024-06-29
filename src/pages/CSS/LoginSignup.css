@@ -1,0 +1,57 @@
+
+.login-signup{
+    width: 100%;
+    height: 80vh;
+    background-color: #E8C5E5;
+    padding-top: 100px;
+}
+.login-form{
+    margin: auto;
+    width: 30%;
+    padding: 20px 30px;
+    background-color: #F7F9F2;
+}
+.login-form h1{
+    margin: 20px 0px;
+    font-family: poppins;
+    font-weight: bold;
+}
+.login-fields{
+    display: flex;
+    flex-direction: column;
+    gap:10px
+}
+.login-fields input{
+    width: 96%;
+    padding: 5px;
+    border:1px solid rgb(170, 169, 169);
+    padding-left: 10px;
+    height: 30px;
+    font-size: 15px;
+}
+.login-form button{
+    background-color:rgb(251, 85, 85);
+    margin-top: 30px;
+    width: 90%;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    margin-left: 15px;
+    padding: 5px;
+    text-align: center;
+    border: none;
+}
+.loginsignup-login {
+    font-size: small;
+    margin-top: 15px;
+}
+.loginsignup-login span{
+    color: rgb(246, 31, 31);
+}
+.loginsignup-agree {
+    display: flex;
+    font-size: small;
+    margin-top: 15px;
+    gap: 10px;
+}

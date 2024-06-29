@@ -7,7 +7,7 @@ import Newsletter from '../components/Newsletter/Newsletter'
 
 
 
-const shop = () => {
+const Shop = () => {
   return (
     <div>
       <Hero/>
@@ -19,4 +19,4 @@ const shop = () => {
   )
 }
 
-export default shop
+export default Shop
